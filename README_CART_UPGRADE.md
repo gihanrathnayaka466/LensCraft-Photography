@@ -1,0 +1,1 @@
+LensCraft cart upgrade: browse add package, profile add package, cart remove/clear, session totals, booking preserves other cart items. Install to C:\xampp\htdocs\photographsite; preserve config.php. No DB migration. Payments need valid credentials.
